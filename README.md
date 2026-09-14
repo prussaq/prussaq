@@ -43,7 +43,7 @@ As an independent developer, I can work directly, stay flexible, take on smaller
 
 ## Technologies
 
-Python · Linux · SQL/NoSQL · REST APIs · WebSockets · Docker · AI/LLM APIs
+Python · Linux · SQL/NoSQL · REST APIs · WebSockets · Docker · AI/LLM
 
 ## Contact
 
