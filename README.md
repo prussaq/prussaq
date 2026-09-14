@@ -1,6 +1,6 @@
 # Sergius
 
-**Data, automation and intelligent software systems for business and finance.**
+**Data, automation and intelligent software for business and finance.**
 
 I develop software to help businesses automate processes and make data more useful to save time, reduce errors, and improve decisions. My work covers data processing, system integrations, API services, automated workflows and bots, trading infrastructure, server configurations, and AI-powered tools. 
 
