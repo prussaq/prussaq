@@ -10,8 +10,8 @@ As an independent developer, I can work directly, stay flexible, take on smaller
 
 **Data**
 
-* Data gathering, extraction, and storage
-* Cleaning, transformation, and analysis
+* Data gathering, extraction and storage
+* Cleaning, transformation and analysis
 * File, document and financial-data processing
 
 **Automation**
@@ -43,7 +43,7 @@ Python · Linux · SQL/NoSQL · REST APIs · WebSockets · Docker · AI/LLM
 
 ## AI-Assisted Development
 
-I use AI extensively as a development and research tool to improve productivity, explore solutions and handle routine work. I use it within the limits of my ability to understand, review and validate its output, while taking responsibility for the final implementation.
+I use AI extensively as a development and research tool to improve productivity, explore solutions and handle routine work. I use it within the limits of my ability to understand, review and validate its output. I remain responsible for the final implementation.
 
 ## Contact
 
