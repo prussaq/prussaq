@@ -8,7 +8,7 @@ As an independent developer, I can work directly, stay flexible, take on smaller
 
 ## Background
 
-I worked as a Java developer in the banking industry for several years, building software for financial institutions. Later, I built my own arbitrage infrastructure, working with market data, automated strategies, and financial data processing.
+I worked as a Java developer in the banking industry for several years, building and maintaining software for financial institutions. Later, I built my own arbitrage infrastructure, working with market data, automated strategies, and financial data processing.
 
 ## What I do
 
