@@ -51,6 +51,6 @@ I use AI as a development and research tool to improve productivity, explore sol
 
 ## Contact
 
-Have something you think I could take on? Feel free to get in touch.
+Have something you think I could take on? Feel free to reach out.
 
 [Email](mailto:prussaq@gmail.com)
