@@ -43,7 +43,7 @@ I worked as a Java developer in the banking industry for several years, building
 
 ## Technologies
 
-Python · Linux · SQL/NoSQL · REST APIs · WebSockets · FastAPI · AI/LLM
+Python · Linux · SQL/NoSQL · REST APIs · WebSockets · FastAPI · AI/LLM · Cryptocurrency
 
 ## AI-Assisted Development
 
